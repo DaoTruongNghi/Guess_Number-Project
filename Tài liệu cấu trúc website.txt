@@ -1,0 +1,15 @@
+Cấu trúc của một trang web phải được thiết kế sao cho dễ hiểu, dễ sử dụng và thuận tiện cho người dùng. Sau đây là một số phân tích về cấu trúc của một trang web:
+
+Header: Đây là phần trên cùng của trang web, thường chứa logo, menu điều hướng và các thông tin quan trọng khác như địa chỉ, số điện thoại và địa chỉ email của doanh nghiệp.
+
+Nội dung chính: Đây là phần quan trọng nhất của trang web, nơi mà người dùng sẽ tìm thấy thông tin và nội dung mà họ đang tìm kiếm. Nội dung chính có thể bao gồm các bài viết, sản phẩm, dịch vụ, hình ảnh, video và các thông tin khác.
+
+Menu điều hướng: Menu điều hướng giúp người dùng dễ dàng tìm kiếm thông tin và điều hướng trang web. Điều hướng có thể được đặt ở header, footer hoặc sidebar của trang web.
+
+Sidebar: Sidebar là một khu vực bên cạnh nội dung chính của trang web, thường chứa các liên kết, quảng cáo và thông tin quan trọng khác. Sidebar có thể được sử dụng để hiển thị các bài viết liên quan, các sản phẩm tương tự hoặc các tin tức mới nhất.
+
+Footer: Đây là phần cuối cùng của trang web, thường chứa các liên kết quan trọng như trang chủ, giới thiệu, chính sách bảo mật và thông tin liên hệ. Footer cũng có thể chứa các biểu tượng mạng xã hội và thông tin về bản quyền của trang web.
+
+Responsive design: Thiết kế trang web phải được tối ưu hóa cho các thiết bị khác nhau, bao gồm máy tính để bàn, máy tính xách tay, điện thoại di động và máy tính bảng. Thiết kế responsive design giúp trang web hiển thị đẹp và thuận tiện trên các thiết bị khác nhau.
+
+SEO: Cấu trúc của trang web cũng phải được tối ưu hóa cho công cụ tìm kiếm. Điều này bao gồm sử dụng các từ khóa liên quan đến nội dung của trang web trong các thẻ meta và các đoạn văn bản trên trang web. Ngoài ra, cấu trúc của trang web cũng phải được tối ưu hóa cho t
